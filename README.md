@@ -1,4 +1,4 @@
-# NGSA Android
+NGSA Android
 
 This is the Android version of NGSA (Next Generation Supervisor App).
 
