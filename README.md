@@ -1,8 +1,8 @@
-NGSA Android
+## NGSA Android
 
 This is the Android version of NGSA (Next Generation Supervisor App).
 
-## 📱 Project Details
+### 📱 Project Details
 
 - **Package ID**: `lg.apps.ngsa.android`
 - **Minimum SDK**: 25
@@ -10,19 +10,19 @@ This is the Android version of NGSA (Next Generation Supervisor App).
 - **Java Version**: 21
 - **Gradle Version**: Compatible with Java 21
 
-## 🛠 Features
+### 🛠 Features
 
 - Internet access enabled
 - Custom Application class setup
 - Android Studio and Git ready
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 1. Clone the repository
 2. Open in Android Studio
 3. Sync Gradle
 4. Build & Run
 
-## 📄 License
+### 📄 License
 
 (Your preferred license)
