@@ -41,14 +41,14 @@ android {
 
 dependencies {
 
-    // Android dependencies
+    // Add Android dependencies
     implementation("androidx.appcompat:appcompat:1.4.1")
     implementation("androidx.constraintlayout:constraintlayout:2.1.3")
 
-    // FHIR HAPI dependencies
+    // Add FHIR HAPI dependencies
     implementation("ca.uhn.hapi.fhir:hapi-fhir-client:5.5.0")  // Latest HAPI FHIR version
 
-    // Spring dependencies
+    // Add Spring dependencies
     implementation("org.springframework:spring-web:5.3.19")  // Spring Web for client-side HTTP requests
 
     implementation(libs.androidx.core.ktx)
