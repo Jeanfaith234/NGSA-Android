@@ -16,12 +16,13 @@ import android.app.Application
 import android.util.Log
 
 
+// Add Application Class
 class NGSAAndroid : Application() {
 
     override fun onCreate() {
         super.onCreate()
         // App-wide initialization logic here
-        Log.d("NGSAAndroid", " NGSA Android Application started")
+        Log.d("NGSAAndroid", " Next Gen Supervisor App")
     }
 }
 
